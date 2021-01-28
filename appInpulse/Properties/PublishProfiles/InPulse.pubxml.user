@@ -94,10 +94,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/21/2020 12:49:29</publishTime>
     </File>
     <File Include="bin/appInpulse.dll">
-      <publishTime>01/27/2021 11:15:50</publishTime>
+      <publishTime>01/28/2021 10:47:57</publishTime>
     </File>
     <File Include="bin/appInpulse.pdb">
-      <publishTime>01/27/2021 11:15:50</publishTime>
+      <publishTime>01/28/2021 10:47:57</publishTime>
     </File>
     <File Include="bin/ApplicationInsights.config">
       <publishTime>11/21/2020 12:49:27</publishTime>
